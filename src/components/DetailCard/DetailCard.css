@@ -1,0 +1,13 @@
+.Detail_Card {
+  color: white;
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 10vh;
+  left: 50%;
+  margin-left: -400px;
+  background-color: steelblue;
+  padding: 80px;
+  border-radius: 50px;
+  border: 10px solid white;
+}
